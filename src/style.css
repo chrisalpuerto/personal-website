@@ -1,0 +1,15 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .navbar-brand {
+    font-family: 'Libre Barcode 39 Text', cursive;
+    font-size: 2rem;
+    color: #007bff;
+  }
+  
+  h1, h2, h3 {
+    font-weight: bold;
+  }
+  
